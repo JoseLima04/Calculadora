@@ -176,4 +176,14 @@ body.light .area-conta{
     color: #fff;
     font-size: 20px;
 }
+
+
+/* telas menores*/
+@media screen and (max-width: 600px){
+    .area-conta{max-width: 330px;}
+    .area-teclas{ height: 370px; max-width: 330px;}
+    .teclas{ width: 60px; height: 50px;}
+    .linha-teclas{display: grid; grid-template-columns: 80px 80px 80px 80px ;}
+    .area-reset-result{ margin-left: 5px;}
+}
 /* Fim :)*/
