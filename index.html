@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsivo.css">
+
+</head>
+<body>
+    <div class="titulo-tema">
+        calc
+        <div class="tema">
+            <input type="checkbox" class="checkbox" id="tema">
+            <label class="label" for="tema">
+                <i class="fas fa-moon"></i>
+                <i class="fas fa-sun"></i>
+                <div class="ball"></div>
+            </label>
+        </div>
+
+    </div>
+    <div class="area-conta">
+        <div class="numero-display" id="numero-display"></div>
+    </div>
+        <div class="area-teclas">
+            <div class="linha-teclas">
+                <button class="teclas" onclick="inserir('7')" id="tecla7">7</button>
+
+                <button class="teclas" onclick="inserir('8')" id="tecla8">8</button>
+
+                <button class="teclas" onclick="inserir('9')" id="tecla9">9</button>
+
+                <button class="teclas del" onclick="apagarNumero()" id="backspace" >Del</button>
+
+                <button class="teclas" onclick="inserir('4')" id="tecla4">4</button>
+
+                <button class="teclas" onclick="inserir('5')" id="tecla5">5</button>
+
+                <button class="teclas" onclick="inserir('6')" id="tecla6">6</button>
+
+                <button class="teclas" onclick="inserir('+')" id="operadorSoma">+</button>
+
+                <button class="teclas" onclick="inserir('1')" id="tecla1">1</button>
+
+                <button class="teclas" onclick="inserir('2')" id="tecla2">2</button>
+
+                <button class="teclas" onclick="inserir('3')" id="tecla3">3</button>
+
+                <button class="teclas" onclick="inserir('-')" id="operadorSubt">-</button>
+
+                <button class="teclas" onclick="inserir('.')" id="decimal">.</button>
+
+                <button class="teclas" onclick="inserir('0')" id="tecla0">0</button>
+
+                <button class="teclas" onclick="inserir('/')" id="operadorDiv">/</button>
+
+                <button class="teclas" onclick="inserir('*')" id="operadorMult">*</button>
+            </div>   
+        <div class="area-reset-result">
+            <button class=" reset-result reset" onclick="limparTudo()" id="apagarTudo">Reset</button>
+            <button class="reset-result result" onclick="calcular()" id="igual" >=</button>
+        </div>
+        </div>
+    </div>
+    <script src="scripts.js"></script>
+    <script src="https://kit.fontawesome.com/6302c10ce7.js" crossorigin="anonymous"></script>
+</body>
+</html>
