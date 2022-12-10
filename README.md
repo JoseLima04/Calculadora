@@ -1,7 +1,7 @@
 # ✔️<a href="https://devjoselima.github.io/Calculadora/">Calculadora</a>
 
 ## 📑 Descrição:
-Projeto de uma calculadora simples desenvolvido em html,css e javascript.
+Projeto de uma calculadora simples desenvolvido em html, css e javascript.
 
 ## 👨‍💻Tecnologias usadas:
 
