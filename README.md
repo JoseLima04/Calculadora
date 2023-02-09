@@ -12,7 +12,7 @@
 ## ❔ Descrição:
 This is a solution to the <a href="https://www.frontendmentor.io/challenges/calculator-app-9lteq5N29"> Calculator app challenge on Frontend Mentor.</a> Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## 💻 Tecnologias:
+## 🚀 Tecnologias:
 
 <div style="display: inline_block">
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
