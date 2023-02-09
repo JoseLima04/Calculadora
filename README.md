@@ -1,8 +1,6 @@
-<h1 align="center">✔️Calculator</h1>
+<h1 align="center">✔️Calculadora</h1>
 <p align="center">
-  <a href="https://devjoselima.github.io/Calculadora/">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="https://devjoselima.github.io/Calculadora/">Ver projeto</a>
 </p>
 
 <div align="center">
