@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://devjoselima.github.io/Calculadora/">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-build with">Build</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-build with">Build</a>
 </p>
 
 <div align="center">
